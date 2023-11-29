@@ -1,4 +1,4 @@
-# Coding exercises in multiple languages (Python, Java, Mojo)
+# Coding exercises in multiple languages (Python, Mojo)
 
 
 # References
