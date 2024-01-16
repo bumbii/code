@@ -1,30 +1,22 @@
 # Coding exercises in Python and Mojo 
+$1.\quad S(n) = 1 + 2 + 3 + ...+ n$ 
 
-# Note:
-- Dec 2023: Upgrade to Mojo v0.6.0 
-- Nov 2023: Current Mojo version is v0.5.0 (Nov 2023)
+$2.\quad S(n) = 1^2 + 2^2 + 3^2 + ... + n^2$
 
-## 1. INPUT/OUTPUT
-1. Write a program that asks the user to enter their name and year of birth. Print out their name and age.
-```
-Enter your name: Bumbii
-Enter your year of birth: 2022
-Hello, Bumbii. You are 1 years old!
-```
+$3.\quad S(n) = 1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}$
 
-2. Write a program that asks the user to enter a number (n). Print all integers from 0 to n (including n).
-```
-Please enter a number: 10
-0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-```
-3. Write a program that asks the user to enter a number (n). Print all integers from -n to n (including -n and n).
-```
-Please enter a number: 5
--5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5
-```
+$4.\quad S(n) = 1 + \frac{1}{4} + ... + \frac{1}{2n}$
+
+$5.\quad S(n) = 1 + \frac{1}{3} + \frac{1}{5} + ... + \frac{1}{2n + 1}$
+
+$6.\quad S(n) = \frac{1}{1 * 2} + \frac{1}{2 * 3} + ... + \frac{1}{n * (n + 1)}$
+
+$7.\quad S(n) = \frac{1}{2} + \frac{2}{3} + \frac{3}{4} +... + \frac{n}{n + 1}$
+
+$8.\quad S(n) = \frac{1}{2} + \frac{3}{4} + \frac{5}{6} +... + \frac{2n + 1}{2n + 2}$
+
+
 # References
-1. Bài tập kỹ thuật lập trình - Author: Nguyễn Tấn Trần Minh Khang
-2. 1000 Examples programming in Python - Author: Gábor Szabó 
-3. Learning Python - Author: Mark Lutz
-4. Python for Education - Author: Ajith Kumar B.P (Inter University Accelerator Center)
-5. Python in highschool - Author: Arnaud Bodin
+1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang
+2. Python in highschool - Author: Arnaud Bodin
+3. [How to write mathematical expressions on Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)

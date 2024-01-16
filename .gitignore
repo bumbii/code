@@ -3,3 +3,6 @@
 **/*.iml
 **/out/
 /.idea/
+
+.venv/
+venv/
