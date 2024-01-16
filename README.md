@@ -15,6 +15,9 @@ $7.\quad S(n) = \frac{1}{2} + \frac{2}{3} + \frac{3}{4} +... + \frac{n}{n + 1}$
 
 $8.\quad S(n) = \frac{1}{2} + \frac{3}{4} + \frac{5}{6} +... + \frac{2n + 1}{2n + 2}$
 
+$9.\quad T(n) = 1 * 2 * 3 * ... * n$
+
+$10.\quad T(x, n) = x^n$
 
 # References
 1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang
