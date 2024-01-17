@@ -4,6 +4,12 @@ def sum(n: int):
         s += i
     return s
 
-
-n = int(input('Enter an integer: '))
-print(f'S = {sum(n)}')
+# Ask user to provide an integer
+input = input('Enter an integer: ')
+try:
+    # Try to cast the input to integer
+    n = int(input)
+    print(f'S = {sum(n)}')
+except:
+    # Can not cast the input to integer
+    print('You did not enter a number!!!')
