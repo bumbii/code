@@ -1,4 +1,5 @@
-# Coding exercises in Python and Mojo 
+## Coding exercises in Python and Mojo 
+
 $1.\quad S(n) = 1 + 2 + 3 + ...+ n$ 
 
 $2.\quad S(n) = 1^2 + 2^2 + 3^2 + ... + n^2$
@@ -19,7 +20,7 @@ $9.\quad T(n) = 1 * 2 * 3 * ... * n$
 
 $10.\quad T(x, n) = x^n$
 
-# References
-1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang
+## References
+1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang (My teacher at University (University of Sciences, HCM City))
 2. Python in highschool - Author: Arnaud Bodin
 3. [How to write mathematical expressions on Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
