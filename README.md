@@ -1,6 +1,6 @@
 ## Coding exercises in Python and Mojo 
 
-$1.\quad S(n) = 1 + 2 + 3 + ...+ n.$ [Python](https://github.com/bumbii/code/blob/main/python/exercises/001/001.py)
+$1.\quad S(n) = 1 + 2 + 3 + ...+ n.$ [Python](https://github.com/bumbii/code/blob/main/python/exercises/001/001.py) [Mojo](https://github.com/bumbii/code/blob/main/mojo/exercises/001/001.mojo)
 
 $2.\quad S(n) = 1^2 + 2^2 + 3^2 + ... + n^2$
 
