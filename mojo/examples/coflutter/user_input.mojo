@@ -4,6 +4,7 @@ from python import Python
 
 fn inputInteger(message: StringLiteral) raises -> Int:
     '''Take an integer from user and return it.
+
     Args:
         message: The message to show to the user before entering the integer.
     '''
