@@ -1,4 +1,4 @@
-# Mojo v0.6.1 does not support input() method. 
+# Mojo v0.6.3 does not support input() method. 
 # Let's just use python input() for now.
 # TODO: Use builtin input()
 from python import Python
