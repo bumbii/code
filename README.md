@@ -20,6 +20,26 @@ $9.\quad T(n) = 1 * 2 * 3 * ... * n$
 
 $10.\quad T(x, n) = x^n$
 
+$11.\quad S(n) = 1 + 1 * 2 + 1 * 2 * 3 + ... + 1 * 2 * 3 * ... * n$
+
+$12.\quad S(n) = x + x^2 + x^3 + ... + x^n$
+
+$13.\quad S(n) = x^2 + x^4 + ... + x^{2n}$
+
+$14.\quad S(n) = x + x ^ 3 + x^5 + ... + x^{2n + 1}$
+
+$15.\quad S(n) = 1 + \frac{1}{1 + 2} + \frac{1}{1 + 2 + 3} + ... + \frac{1}{1 + 2 + 3 + ... + n}$
+
+$16.\quad S(n) = x + \frac{x^2}{1 + 2} + \frac{x^3}{1 + 2 + 3} + ... + \frac{x^n}{1 + 2 + 3 + ... + n}$
+
+$17.\quad S(n) = x + \frac{x^2}{2!} + \frac{x^3}{3!} + ... + \frac{x^n}{n!}$
+
+$18.\quad S(n) = 1 + \frac{x^2}{2!} + \frac{x^4}{4!} + ... + \frac{x^{2n}}{(2n)!}$
+
+$19.\quad S(n) = 1 + x + \frac{x^3}{3!} + \frac{x^5}{5!} + ... + \frac{x^{2n + 1}}{(2n + 1)!}$
+
+20. List all divisors of a positive integer n
+
 ## References
 1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang (My teacher at University (University of Sciences, HCM City))
 2. Python in highschool - Author: Arnaud Bodin
