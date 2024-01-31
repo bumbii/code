@@ -2,7 +2,7 @@
 
 $1.\quad S(n) = 1 + 2 + 3 + ...+ n.$ [Python](https://github.com/bumbii/code/blob/main/python/exercises/001/001.py) [Mojo](https://github.com/bumbii/code/blob/main/mojo/exercises/001/001.mojo)
 
-$2.\quad S(n) = 1^2 + 2^2 + 3^2 + ... + n^2$ [Python](https://github.com/bumbii/code/blob/main/python/exercises/002/002.py)
+$2.\quad S(n) = 1^2 + 2^2 + 3^2 + ... + n^2$ [Python](https://github.com/bumbii/code/blob/main/python/exercises/002/002.py) [Mojo](https://github.com/bumbii/code/blob/main/mojo/exercises/002/002.mojo)
 
 $3.\quad S(n) = 1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{n}$
 
