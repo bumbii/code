@@ -44,6 +44,16 @@ $\text{Example 1: input: n = 6, output: 1, 2, 3, 6}$
 
 $\text{Example 2: input: n = 10, output: 1, 2, 5, 10}$
 
+$21. \text{Given a positive integer \textcolor{green}{n}. Find the sum of all divisors of n}$
+
+$\text{Example: input: n = 6, output: 12}$
+
+$\text{Explain:}$
+
+$\text{The divisors of 6 are: 1, 2, 3, 6}$
+
+$sum = 1 + 2 + 3 + 6 = 12$
+
 ## References
 1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang (My teacher at University (University of Sciences, HCM City))
 2. Python in highschool - Author: Arnaud Bodin
