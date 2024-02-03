@@ -38,9 +38,11 @@ $18.\quad S(n) = 1 + \frac{x^2}{2!} + \frac{x^4}{4!} + ... + \frac{x^{2n}}{(2n)!
 
 $19.\quad S(n) = 1 + x + \frac{x^3}{3!} + \frac{x^5}{5!} + ... + \frac{x^{2n + 1}}{(2n + 1)!}$
 
-$20.\quad \text{List all divisors of a positive integer n.}\\
-\text{Example 1: input: n = 6, output: 1, 2, 3, 6}\\
-\text{Example 2: input: n = 10, output: 1, 2, 5, 10}$
+$20.\quad \text{List all divisors of a positive integer n.}$
+
+$\text{Example 1: input: n = 6, output: 1, 2, 3, 6}$
+
+$\text{Example 2: input: n = 10, output: 1, 2, 5, 10}$
 
 ## References
 1. Programming Exercises (Vietnamese: Bài tập kỹ thuật lập trình) - Author: Nguyễn Tấn Trần Minh Khang (My teacher at University (University of Sciences, HCM City))
