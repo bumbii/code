@@ -83,7 +83,7 @@ $\text{Example 1: input: N = 6, output: 1, 2, 3, 6}$
 $\text{Example 2: input: N = 10, output: 1, 2, 5, 10}$
 
 ---
--
+
 $21. \text{Given a positive integer \textcolor{green}{N}. Find the sum of all divisors of \textcolor{green}{N}.}$
 
 $\text{Example: input: N = 6, output: 12}$
