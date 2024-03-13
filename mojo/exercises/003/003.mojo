@@ -10,5 +10,5 @@ fn sum(n: Int) raises -> Fraction:
     return s
 
 fn main() raises:
-    let n = inputInteger('Please enter an integer: ')
+    var n = inputInteger('Please enter an integer: ')
     print('sum = ' + str(sum(n)))

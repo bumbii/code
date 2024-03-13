@@ -8,5 +8,5 @@ fn sum(n: Int) -> Int:
     return s
 
 fn main() raises:
-    let n = inputInteger('Please enter an integer: ')
-    print(sum(n))
+    var n = inputInteger('Please enter an integer: ')
+    print('Sum =', sum(n))
