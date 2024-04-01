@@ -1,6 +1,6 @@
 # Blog: https://bumbii.com/chuoi-ky-tu-string-trong-python/
 
-### DECLARE STRING ###
+# 1. Declare strings
 
 # Declare strings using single quotes or double quotes
 single_quotes_string = 'Hello, Bumbii - single quotes!'
@@ -44,9 +44,13 @@ Because light attracts bugs!
 """
 print(multiple_lines_string_single_quotes)
 
-### USE VARIABLE IN STRING ###
+# 2. Use variables in string
 year_of_birth = 1988
 age = 2024 - year_of_birth
 message = f"Your year of birth is {year_of_birth}. You are {age} years old"
 print(message)
 
+# 4. Get the length of a string
+greeting = "Hello Bumbii!"
+length = len(greeting)
+print(length) # 13
