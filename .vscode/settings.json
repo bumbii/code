@@ -1,3 +1,4 @@
 {
-    "mojo.modularHomePath": "/Users/phuc/.modular"
+    "mojo.modularHomePath": "/Users/phuc/.modular",
+    "python.analysis.typeCheckingMode": "basic"
 }
