@@ -1,10 +1,12 @@
-value = input('Enter a value:')
+import datetime
+
+value = input('Enter the year of birth:')
 print(value)
 
-price = input('Enter the price ($):')
-tax = input('Enter the tax rate (%):')
-tax_amount = int(price) * int(tax) / 100
-print(f'The tax amount is ${tax_amount}')
+year_of_birth = input('Enter the year of birth: ')
+current_year = datetime.datetime.now().year
+your_age = current_year - int(year_of_birth)
+print('Your age is:', your_age)
 
 x = 5
 print(type(x))
