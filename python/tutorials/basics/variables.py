@@ -1,8 +1,8 @@
-message = 'Hello, World!'
+message = 'Hello, Python!'
 print(message)
 
 
-message = 'Good Bye!'
+message = 'Welcome to Python!'
 print(message)
 
 
