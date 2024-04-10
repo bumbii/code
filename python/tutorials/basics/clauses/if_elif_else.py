@@ -1,41 +1,21 @@
-age = input('Enter your age:')
+average_score = input('Enter your average score: ')
+if float(average_score) >= 8.0:
+    print("You are classified as Excellent")
+print("Please check the detailed scores for each subject.")
+
+age = input('Enter your age: ')
 if int(age) >= 18:
-    print("You're eligible to vote.")
-
-#####
-
-age = input('Enter your age:')
-if int(age) >= 18:
-    print("You're eligible to vote.")
-    print("Let's go and vote.")
-
-age = input('Enter your age:')
-if int(age) >= 18:
-    print("You're eligible to vote.")
-print("Let's go and vote.")
-
-######
-
-age = input('Enter your age:')
-if int(age) >= 18:
-    print("You're eligible to vote.")
+    print("You can drive a car.")
 else:
-    print("You're not eligible to vote.")
+    print("You can not drive a car.")
 
-#####
-
-age = input('Enter your age:')
-
+seconds = input('Enter the number of seconds: ')
 # convert the string to int
-your_age = int(age)
-
-# determine the ticket price
-if your_age < 5:
-    ticket_price = 5
-elif your_age < 16:
-    ticket_price = 10
+your_seconds = int(seconds)
+# condition clauses
+if your_seconds > 60:
+    print("The entered number of seconds is more than one minute.")
+elif your_seconds == 60:
+    print("The entered number of seconds is one minute.")
 else:
-    ticket_price = 18
-
-# show the ticket price
-print(f"You'll pay ${ticket_price} for the ticket")
+    print("The entered number of seconds is less than one minute.")
